@@ -6,7 +6,7 @@
 .api-status, .page-footer, .count, .eyebrow, th { font-family: Consolas, 'Courier New', monospace; font-size: 11px; }
 .api-status { display: flex; align-items: center; gap: 9px; color: #68756f; text-transform: uppercase; }
 .api-status code { padding-left: 9px; border-left: 1px solid #d5ded8; color: #1b2b26; text-transform: none; }
-.status-dot { width: 7px; height: 7px; border-radius: 50%; background: #21865e; }
+.status-dot { width: 7px; height: 7px; border-radius: 50%; background: #86928b; }
 main { padding-top: 68px; }
 .workspace { display: grid; grid-template-columns: minmax(0, .9fr) minmax(360px, 1.1fr); align-items: center; gap: 64px; padding-bottom: 68px; }
 .eyebrow { margin: 0 0 18px; color: #8a4b38; font-weight: 700; }
